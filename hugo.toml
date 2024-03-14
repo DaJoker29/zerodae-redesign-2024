@@ -1,0 +1,29 @@
+# Configuration: https://github.com/zjedi/hugo-scroll/blob/master/exampleSite/config.toml
+
+
+baseURL = 'https://www.zerodaedalus.com/'
+languageCode = 'en-us'
+title = 'Zero Daedalus • Web Consulting'
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+clearDestinationDir = true
+theme = 'hugo-scroll'
+enableGitInfo = true
+
+[params]
+	description = "Web Design and Development Consulting"
+	copyright = "© Dewitt Buckingham 2024"
+
+[params.meta]
+	keywords = ""
+
+    [[params.contacts]]
+        label = "phone"
+        value = "+1 209 740 9063"
+        url = "tel:+12097409063"
+        icon = "fa fa-phone"
+
+    [[params.contacts]]
+        label = "email"
+        value = "captain@zerodaedalus.net"
+        url = "mailto:captain@zerodaedalus.net"
+        icon = "fa fa-envelope"
