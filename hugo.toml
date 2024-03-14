@@ -12,6 +12,8 @@ enableGitInfo = true
 [params]
 	description = "Web Design and Development Consulting"
 	copyright = "© Dewitt Buckingham 2024"
+	images = ["images/logo_full.png"]
+	# title_guard = true
 
 [params.meta]
 	keywords = ""
