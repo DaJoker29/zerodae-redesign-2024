@@ -1,23 +1,29 @@
 ---
 title: "Services Offered"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Services"
 weight: 2
 header_menu: true
 ---
-Discover how we can help your small business thrive online with our range of tailored web consulting services. From website audits to digital strategy development, we're here to support you every step of the way. Let's work together to elevate your online presence and achieve your business goals.
+---
+#### * `Website Design & Development`
+We build websites that are as slick as they are functional. Whether you're starting from scratch or need a serious upgrade, count on us to bring your digital vision to life.
 
-### Website Audits
-Gain valuable insights into your website's performance and discover actionable strategies to improve.
+#### * `Search Engine Optimization (SEO)`
+Get ready to climb the Google ladder. Using SEO wizardry, we will sprinkle magic keywords and strategic tactics to get your site noticed by all the right people.
 
-### Digital Strategy
-Let's work together to create a customized plan to achieve your online goals within your budget.
 
-### UX/UI Optimization
-Enhance user experience and boost engagement with a website that speaks to your target audience.
+#### * `E-commerce Solutions`
+Turn window shoppers into loyal customers with our e-commerce expertise. We can whip up a digital storefront that's not just pretty but also a selling machine.
 
-### SEO & Content Strategy
-Increase your visibility and attract more customers with targeted content and optimized search engine ranking.
+#### * `Content Marketing`
+We're not just about pretty pixels – we keep wordsmiths on retainer. Let us weave captivating stories and craft killer content to keep your audience hooked and coming back for more.
 
-### Conversion Rate Optimization
-Turn website visitors into loyal customers through proven strategies that maximize conversions.
+#### * `Digital Strategy`
+Think of us as your digital sherpa, guiding you through the wilds of the internet. We'll help you map out a plan that's as smart as it is effective, so you can conquer the online world with confidence.
+
+#### * `Maintenance & Support`
+We've got your back, even after the confetti has settled. From software updates to security patches, we'll keep your website running smoother than a well-oiled machine. So you can focus on what you do best – while we handle the tech stuff.
+
+---
+Want to learn more about our services? [Get in touch with us](#contact) for details.

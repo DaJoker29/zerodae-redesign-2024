@@ -11,7 +11,7 @@ enableGitInfo = true
 
 [params]
 	description = "Web Design and Development Consulting"
-	copyright = "© Dewitt Buckingham 2024"
+	copyright = "© Zero Daedalus 2024"
 	images = ["images/logo_full.png"]
 	# title_guard = true
 
@@ -20,8 +20,8 @@ enableGitInfo = true
 
     [[params.contacts]]
         label = "phone"
-        value = "+1 209 740 9063"
-        url = "tel:+12097409063"
+        value = "(209) 740 9063"
+        url = "tel:12097409063"
         icon = "fa fa-phone"
 
     [[params.contacts]]

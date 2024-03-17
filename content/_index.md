@@ -1,6 +1,6 @@
 ---
-header_image: "images/pexels-plenio.jpg"
-header_logo: "images/logo_wordmark.png"
+header_image: "https://cdn.zerodaedal.us/pexels-water0140.jpg"
+header_logo: "https://cdn.zerodaedal.us/Logo_Wordmark.png"
 header_use_video: true
 # header_headline: "Zero Daedalus"
 # header_subheadline: "Web Consulting"
