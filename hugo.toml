@@ -3,14 +3,14 @@
 
 baseURL = 'https://zerodaedal.us/'
 languageCode = 'en-us'
-title = 'Zero Daedalus • Web Consulting'
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+title = 'Zero Daedalus • Website Design & Consulting Services'
+disableKinds = ["section", "taxonomy", "term", "RSS"]
 clearDestinationDir = true
 theme = 'hugo-scroll'
 enableGitInfo = true
 
 [params]
-	description = "Web Design and Development Consulting"
+	description = "Zero Daedalus (ZeroDae for short) is a web consulting agency based in the Bay Area since 2012. We specialize in helping small businesses leverage the web to connect with customers and evolve the way they do business."
 	copyright = "© Zero Daedalus 2024"
 	images = ["images/logo_full.png"]
 	# title_guard = true
