@@ -1,7 +1,7 @@
 # Configuration: https://github.com/zjedi/hugo-scroll/blob/master/exampleSite/config.toml
 
 
-baseURL = 'https://www.zerodaedalus.com/'
+baseURL = 'https://zerodaedal.us/'
 languageCode = 'en-us'
 title = 'Zero Daedalus • Web Consulting'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
