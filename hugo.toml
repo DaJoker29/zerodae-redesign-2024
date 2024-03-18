@@ -7,6 +7,7 @@ title = 'Zero Daedalus • Website Design & Consulting Services'
 disableKinds = ["section", "taxonomy", "term", "RSS"]
 clearDestinationDir = true
 theme = 'hugo-scroll'
+enableGitInfo = true
 
 [params]
 	description = "Zero Daedalus (ZeroDae for short) is a web consulting agency based in the Bay Area since 2012. We specialize in helping small businesses leverage the web to connect with customers and evolve the way they do business."
