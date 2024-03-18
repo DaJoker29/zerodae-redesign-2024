@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Zero Daedalus"
+navigation_menu_title: "Welcome"
 weight: 1
 ---
 In the vast digital universe, **your online presence is your spacecraft**, navigating through the endless possibilities of the internet. Consider ZeroDae your expert co-pilot, guiding you through the cosmos of web design and development with precision and creativity.
