@@ -13,27 +13,21 @@
 	label {
 		display: block;
 		font-weight: bold;
+		text-align: center;
 	}
 
 	input,
 	select,
 	textarea {
-		display: inline-block;
+	    -moz-box-sizing: border-box;
+		box-sizing: border-box;
+		display: block;
+		width: 70%;
 		border-radius: 0;
 		border: 0;
 		line-height: 1.5em;
-		margin: .5em;
+		margin: .5em auto;
 		padding: .5em;
-	}
-
-	input.text {
-		display: block;
-		width: 300px;
-		float: left;
-	}
-
-	input.submit {
-		margin:20px 0 0 200px;
-		width: auto;
+		text-align: center;
 	}
 </style>
