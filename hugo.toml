@@ -12,24 +12,29 @@ enableRobotsTXT = true
 og_title = "Zero Daedalus • Web Design & Consulting Services"
 
 [params]
-title = "Zero Daedalus • Web Design & Consulting Services"
-description = "Zero Daedalus (ZeroDae for short) is a web consulting agency based in the Bay Area since 2012. We specialize in helping small businesses leverage the web to connect with customers and evolve the way they do business."
-copyright = "© Zero Daedalus 2024"
-images = ["https://cdn.zerodaedal.us/Logo_Full.png"]
-# title_guard = true
+    title = "Zero Daedalus • Web Design & Consulting Services"
+    description = "Zero Daedalus (ZeroDae for short) is a web consulting agency based in the Bay Area since 2012. We specialize in helping small businesses leverage the web to connect with customers and evolve the way they do business."
+    copyright = "© Zero Daedalus 2024"
+    images = ["https://cdn.zerodaedal.us/Logo_Full.png"]
+    hidedesignbyline = true
+    # title_guard = true
 
 [services]
-[services.googleAnalytics]
-ID = 'G-P1CBZPSHR0'
+    [services.googleAnalytics]
+        ID = 'G-P1CBZPSHR0'
+
+[params.footer]
+    showFooterLinks = false
+    showContactIcons = false
 
 [params.meta]
-keywords = 'web design, web development, web agency, web consulting, Bay Area, Silicon Valley'
+    keywords = 'web design, web development, web agency, web consulting, Bay Area, Silicon Valley'
 
 [[params.contacts]]
-label = "phone"
-value = "(209) 740 9063"
-url = "tel:+12097409063"
-icon = "fa fa-phone"
+    label = "phone"
+    value = "(209) 740 9063"
+    url = "tel:+12097409063"
+    icon = "fa fa-phone"
 
 # [[params.contacts]]
 #     label = "email"

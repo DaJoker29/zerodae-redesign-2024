@@ -1,5 +1,6 @@
 ---
-title: "About Us"
+title: "About Me"
+navigation_menu_title: "About"
 weight: 3
 header_menu: true
 ---
