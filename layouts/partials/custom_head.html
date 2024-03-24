@@ -1,33 +1,79 @@
 <style>
 	form { 
 		display:block;
-		padding: 2em; 
-	}
+/*		padding: 2em; */
+margin: 2em 0;
+}
 
-	fieldset {}
+fieldset {}
 
-	legend { 
-		font-weight: bold;
-	}
+legend { 
+	font-weight: bold;
+}
 
-	label {
-		display: block;
-		font-weight: bold;
-		text-align: center;
-	}
+label {
+	display: block;
+	font-weight: bold;
+	text-align: center;
+}
 
-	input,
-	select,
-	textarea {
-	    -moz-box-sizing: border-box;
-		box-sizing: border-box;
-		display: block;
-		width: 70%;
-		border-radius: 0;
-		border: 0;
-		line-height: 1.5em;
-		margin: .5em auto;
-		padding: .5em;
-		text-align: center;
-	}
+input,
+select,
+textarea,
+button {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	display: block;
+	width: 70%;
+	border-radius: 0;
+	border: 0;
+	line-height: 1.5em;
+	margin: .5em auto;
+	padding: .5em;
+	text-align: center;
+}
+
+button,
+input[type=submit] {
+	border-radius: .2em;
+	background-color: var(--highlight);
+	color: var(--highlight-inverse);
+	margin: 2em auto;
+	cursor: pointer;
+}
+
+form#contact-modal {
+	display: none;
+	position: fixed;
+	z-index: 9999;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgb(0,0,0);
+	background-color: rgb(0 0 0 / 40%);
+	margin: 0;
+}
+
+#contact-modal>fieldset {
+	background: var(--footer-color-background);
+	margin: 15% auto;
+	padding: 2em;
+	min-width: 50%;
+	max-width: 80%;
+}
+
 </style>
+
+<script type="text/javascript">
+
+	window.onclick = function(e) {
+		const modal = document.querySelector("form#contact-modal");
+		const trigger = document.querySelector("#contact_form_trigger");
+		if (e.target == modal) {
+			modal.style.display = "none";
+			trigger.style.display = "block";
+		}
+	}
+</script>

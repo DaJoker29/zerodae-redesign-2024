@@ -26,7 +26,7 @@ Think of us as your digital sherpa, guiding you through the wilds of the interne
 We've got your back, even after the confetti has settled. From software updates to security patches, we'll keep your website running smoother than a well-oiled machine. So you can focus on what you do best – while we handle the tech stuff.
 
 ---
-Want to learn more about our services? [Get in touch with us](#contact) for details, or...
+Want to learn more about our services?
 
-### Schedule a Call
+{{<contact_form_trigger>}}
 {{<contact_form>}}

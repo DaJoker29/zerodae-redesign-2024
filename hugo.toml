@@ -17,16 +17,16 @@ enableRobotsTXT = true
 	# title_guard = true
 
 [params.meta]
-	keywords = "web design,web development, web agency, web consulting, Bay Area, Silicon Valley"
+	keywords = "web design, web development, web agency, web consulting, Bay Area, Silicon Valley"
 
     [[params.contacts]]
         label = "phone"
         value = "(209) 740 9063"
-        url = "tel:12097409063"
+        url = "tel:+1(209)740-9063"
         icon = "fa fa-phone"
 
-    [[params.contacts]]
-        label = "email"
-        value = "captain@zerodaedalus.net"
-        url = "mailto:captain@zerodaedalus.net"
-        icon = "fa fa-envelope"
+    # [[params.contacts]]
+    #     label = "email"
+    #     value = "captain@zerodaedalus.net"
+    #     url = "mailto:captain@zerodaedalus.net"
+    #     icon = "fa fa-envelope"
