@@ -6,4 +6,5 @@ header_use_video: true
 # header_subheadline: "Web Consulting"
 nav_to_top_title: "Return to Top"
 nav_to_top_weight: last
+title: 'Zero Daedalus • Web Design & Consulting Services'
 ---
