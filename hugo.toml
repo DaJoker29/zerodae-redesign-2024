@@ -16,13 +16,17 @@ enableRobotsTXT = true
 	images = ["https://cdn.zerodaedal.us/Logo_Full.png"]
 	# title_guard = true
 
+[services]
+    [services.googleAnalytics]
+        ID = 'G-P1CBZPSHR0'
+
 [params.meta]
 	keywords = "web design, web development, web agency, web consulting, Bay Area, Silicon Valley"
 
     [[params.contacts]]
         label = "phone"
         value = "(209) 740 9063"
-        url = "tel:+1(209)740-9063"
+        url = "tel:+12097409063"
         icon = "fa fa-phone"
 
     # [[params.contacts]]
