@@ -16,7 +16,7 @@ og_title = "Zero Daedalus • Web Design & Consulting Services"
     description = "Zero Daedalus (ZeroDae for short) is a web consulting agency based in the Bay Area since 2012. We specialize in helping small businesses leverage the web to connect with customers and evolve the way they do business."
     copyright = "© Zero Daedalus 2024"
     images = ["https://cdn.zerodaedal.us/Logo_Full.png"]
-    hidedesignbyline = true
+    hidedesignbyline = false
     # title_guard = true
 
 [services]
