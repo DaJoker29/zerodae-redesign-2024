@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://zerodaedal.us/sitemap.xml
