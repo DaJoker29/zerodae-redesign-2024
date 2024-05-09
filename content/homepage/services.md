@@ -30,3 +30,4 @@ Want to learn more about our services?
 
 {{<contact_form_trigger>}}
 {{<contact_form>}}
+{{<statcounter>}}
